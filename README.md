@@ -18,7 +18,7 @@ __to start your local SQS, run:__
 
 ## What it uses
 
- * __Java__ with Node Package Manager
+ * __Java 8__ 
  * __[ElasticMQ](https://github.com/adamw/elasticmq)__ - thanks to [@adamw](http://www.github.com/adamw) to make it possible.
 
 
