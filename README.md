@@ -29,5 +29,6 @@ __to start your local SQS, run:__
 *{{docker_ip}}:9324*
 
 ## License
-
 [MIT License](http://vsouza.mit-license.org/) © Vinicius Souza
+
+<img src="contribute.png" />
