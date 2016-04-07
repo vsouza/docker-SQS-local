@@ -1,5 +1,3 @@
-<img src="http://ypereirareis.github.io/assets/images/posts/docker.svg" />
-
 # Docker Amazon SQS
 
 [![](https://badge.imagelayers.io/vsouza/sqs-local:latest.svg)](https://imagelayers.io/?images=vsouza/sqs-local:latest 'Get your own badge on imagelayers.io')
