@@ -1,7 +1,5 @@
 # Docker Amazon SQS
 
-[![](https://badge.imagelayers.io/vsouza/sqs-local:latest.svg)](https://imagelayers.io/?images=vsouza/sqs-local:latest 'Get your own badge on imagelayers.io')
-
 Build for Amazon Simple Queue Service (Amazon SQS) local.
 
 ## What's SQS
