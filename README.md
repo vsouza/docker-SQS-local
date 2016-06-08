@@ -6,12 +6,6 @@ Build for Amazon Simple Queue Service (Amazon SQS) local.
 
 Amazon Simple Queue Service (Amazon SQS) offers reliable and scalable hosted queues for storing messages as they travel between computers. By using Amazon SQS, you can move data between distributed components of your applications that perform different tasks without losing messages or requiring each component to be always available. Amazon SQS is a distributed queue system that enables web service applications to quickly and reliably queue messages that one component in the application generates to be consumed by another component. A queue is a temporary repository for messages that are awaiting processing.
 
-__to start your local SQS, run:__
-
-
-*Feel free to add parameters:*
-
-
 [AWS SQS Docs](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/Welcome.html)
 
 ## What it uses
