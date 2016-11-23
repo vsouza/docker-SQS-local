@@ -1,5 +1,7 @@
 # Docker Amazon SQS
 
+<img src="contribute.png" width="1000" />
+
 Build for Amazon Simple Queue Service (Amazon SQS) local.
 
 ## What's SQS
@@ -22,5 +24,3 @@ __to start your local SQS, run:__
 
 ## License
 [MIT License](http://vsouza.mit-license.org/) © Vinicius Souza
-
-<img src="contribute.png" />
