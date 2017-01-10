@@ -1,6 +1,6 @@
 # Docker Amazon SQS
 
-<img src="contribute.png" width="1000" />
+[![Docker Pulls](https://img.shields.io/docker/pulls/vsouza/sqs-local.svg)](https://hub.docker.com/r/vsouza/sqs-local/)
 
 Build for Amazon Simple Queue Service (Amazon SQS) local.
 
