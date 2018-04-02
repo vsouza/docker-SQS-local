@@ -1,6 +1,7 @@
 # Docker Amazon SQS
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/vsouza/sqs-local.svg)](https://hub.docker.com/r/vsouza/sqs-local/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvsouza%2Fdocker-SQS-local.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvsouza%2Fdocker-SQS-local?ref=badge_shield)
 
 Build for Amazon Simple Queue Service (Amazon SQS) local.
 
@@ -24,3 +25,6 @@ __to start your local SQS, run:__
 
 ## License
 [MIT License](http://vsouza.mit-license.org/) © Vinicius Souza
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvsouza%2Fdocker-SQS-local.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvsouza%2Fdocker-SQS-local?ref=badge_large)
